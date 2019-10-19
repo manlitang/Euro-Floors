@@ -1,0 +1,17 @@
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+
+ <title/>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <circle fill="#5e5e5e" id="svg_1" r="13" cy="14" cx="14" class="a"/>
+  <circle stroke-linejoin="round" stroke-linecap="round" stroke-width="2px" stroke="#e30016" fill="none" id="svg_2" r="15" cy="14.830789" cx="15.138475" class="b"/>
+  <line stroke-linejoin="bevel" stroke-width="2px" stroke="#ffffff" fill="none" id="svg_3" y2="21" y1="9" x2="19" x1="19" class="c"/>
+  <path stroke-miterlimit="10" stroke-width="2px" stroke="#ffffff" fill="none" id="svg_4" d="m21.879387,16.54276l3,0l0,-2.5a1.5,1.5 0 0 0 -1.5,-1.5l0,0a1.5,1.5 0 0 0 -1.5,1.5l0,5a1.5,1.5 0 0 0 1.5,1.5l0,0a1.5,1.5 0 0 0 1.5,-1.5l0,-1" class="d"/>
+  <path stroke-miterlimit="10" stroke-width="2px" stroke="#ffffff" fill="none" id="svg_5" d="m15.938463,16.061537l-1.5,0a1.5,1.5 0 0 0 -1.5,1.5l0,1a1.5,1.5 0 0 0 1.5,1.5l1.5,0l0,-6.5a1.5,1.5 0 0 0 -1.5,-1.5l0,0a1.5,1.5 0 0 0 -1.5,1.5l0,1" class="d"/>
+  <path stroke-miterlimit="10" stroke-width="2px" stroke="#ffffff" fill="none" id="svg_6" d="m10,14.5l0,-1a1.5,1.5 0 0 0 -1.5,-1.5l0,0a1.5,1.5 0 0 0 -1.5,1.5c0,2.5 3,2.5 3,5a1.5,1.5 0 0 1 -1.5,1.5l0,0a1.5,1.5 0 0 1 -1.5,-1.5l0,-1" class="d"/>
+ </g>
+</svg>
